@@ -1,0 +1,102 @@
+.Эгзамен{
+    background-color: orange;
+    width: 65%;
+    height: 80px;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: gray;
+}
+.Box{
+    display: flex;
+gap: 8px;
+}
+.Home{
+    border-style: solid ;;
+    border-width: 3px;
+
+    text-align: center;
+    background-color: azure;
+    color: orange;
+    width: 180px;
+}
+.About{
+    border-style: solid ;
+    border-width: 3px;
+
+    text-align: center;
+    background-color: azure;
+    color: orange;
+    width: 180px;
+}
+.Blog{
+    border-style: solid ;
+    border-width: 3px;
+
+    text-align: center;
+    background-color: azure;
+    color: orange;
+    width: 180px;
+}
+.Careers{
+    border-style: solid ;
+    border-width: 3px;
+
+    text-align: center;
+    background-color: azure;
+    color: orange;
+    width: 180px;
+}
+.Contact{
+    border-style: solid ;
+    border-width: 3px;
+
+    text-align: center;
+    background-color: azure;
+    color: orange;
+    width: 180px;
+}
+.No{
+    width: 250px;
+    height: 50px;
+}
+.Yes{
+    width: 250px;
+    height: 50px;
+}
+.Ok{
+    width: 250px;
+    height: 50px;
+}
+.Boxing{
+    display: flex;
+}
+.class{
+width: 300px;
+background-color: white;
+padding: 10px;
+}
+.класс{
+    width: 300px;
+background-color: white;
+padding: 10px;
+}
+.sinf{
+    width: 300px;
+background-color: white;
+padding: 10px;
+}
+
+.flex {
+    flex-direction: column;
+    display: flex;
+    
+}
+.Copy{
+    width: 65%;
+    height: 80px;
+    background-color: orange;
+    text-align: center;
+    color: white;
+}
